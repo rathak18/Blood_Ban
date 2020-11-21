@@ -26,9 +26,17 @@ session_start();
   background-size: cover;">
                 <br><br><br>
 
+                 <p align="center" class="text-success"><a class="btn btn-danger btn-lg" href="receivers.php">Register As Receivers</a></p>
+                <br><br>
+
+
                 <p align="center" class="text-success"><a class="btn btn-danger btn-lg" href="ReceiverLogine.php">Login As Receivers</a></p>
                 <br><br>
+                <p align="center" class="text-success"><a class="btn btn-danger btn-lg" href="hospital.php">Register As Hospital</a></p>
+                <br><br>
+
                 <p align="center" class="text-success"><a class="btn btn-danger btn-lg" href="HospitalLogine.php">Login As Hospital</a></p>
+
 
 
             </div>
